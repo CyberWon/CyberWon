@@ -1,8 +1,6 @@
 
 # Hi
 
-- 目前正在找工作，运维开发相关
-- 联系方式: mail@shuaibo.wang
 
 <!--   my-skils -->
 
